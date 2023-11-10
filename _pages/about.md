@@ -13,7 +13,7 @@ Hello, young tech enthusiasts! 👋
 
 ![foo-bar-identity.jpg](https://3.bp.blogspot.com/-3uYGieItmQs/WLdyCAXXCfI/AAAAAAAABCI/bW901n0LbZ0z1axB8eE3HIf1TZPag5PrACLcB/s1600/chess-pieces_B_W_board.jpg)
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
+I'm thrilled to introduce your incredible Sixth Grade Chess, Thechessmaster! He's not just any random idiot; he's a total master at chesswizard who will guide you through the exciting world of chess and more chess!.
 
 ## About Thechessmasterzeyu
 👩‍🏫 **Name:** Thechessmasterzeyu
