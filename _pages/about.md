@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: "Thechessmasterzeyu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ Hello, young tech enthusiasts! 👋
 
 ![foo-bar-identity.jpg](https://3.bp.blogspot.com/-3uYGieItmQs/WLdyCAXXCfI/AAAAAAAABCI/bW901n0LbZ0z1axB8eE3HIf1TZPag5PrACLcB/s1600/chess-pieces_B_W_board.jpg)
 
-I'm thrilled to introduce your incredible Sixth Grade Chess, Thechessmaster! He's not just any random idiot; he's a total master at chesswizard who will guide you through the exciting world of chess and more chess!.
+I'm thrilled to introduce your incredible Sixth Grade chessmaster, Thechessmaster! He's not just any random idiot; he's a total chesswizard who will guide you through the exciting world of chess and more chess!.
 
 ## About Thechessmasterzeyu
 👩‍🏫 **Name:** Thechessmasterzeyu
